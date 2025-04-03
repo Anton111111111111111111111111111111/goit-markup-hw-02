@@ -1,0 +1,156 @@
+body {
+    font-family: "Roboto", sans-serif;
+    color: #2E2F42;   
+}
+
+ul {list-style-type: none;}
+
+.head {
+    width: 1440px;
+    height: 72px;
+    border: 1px solid #E7E9FC;
+}
+
+.head-line {
+    margin-top: 24px;
+}
+
+.logo-link {
+    text-transform: uppercase;
+    font-family: "Raleway";
+    color: #2E2F42;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 3%;
+    vertical-align: middle;
+    margin-left: 156px;
+    float: left;
+}
+
+.logo-web {
+    color: #4D5AE5;
+}
+
+.nav-list {
+    margin-top: 24px;
+    margin-left: 347px;
+}
+    
+.row {float: left;}
+
+.nav-link {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 2%;
+    text-decoration: none;
+    margin-right: 40px;
+}
+
+.nav-link:hover {
+    color: #404BBF;
+}
+
+.studio:active {
+    text-decoration: underline;
+}
+
+.contacts {
+    margin-left: 940px;
+}
+
+.contact-us {
+    color: #2E2F42;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 2%;
+    text-decoration: none;
+    font-style: italic;
+    margin-right: 40px;
+}
+
+.contact-us:hover {color: #404BBF;}
+
+.section-main {
+    background: #2E2F42;
+    width: 1440px;
+    height: 600px;
+    margin-top: -47px;/*!!!*/
+}
+
+.title {
+    color: white;
+    text-align: center;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 60px;
+    letter-spacing: 2%;
+    padding-top: 188px;
+}
+
+button {
+    cursor: pointer;
+    background: #4D5AE5;
+    width: 169px;
+    height: 56px;
+    margin-bottom: 188px; 
+    padding-top: 16px;
+    padding-right: 32px;
+    padding-bottom: 16px;
+    padding-left: 32px;
+    gap: 10px;
+    color: white;
+    font-weight: 500;
+    size: 16px;
+    line-height: 24px;
+    letter-spacing: 4%;
+    margin-left: 636px;
+    border-radius: 4px;
+    
+}
+
+button:hover {
+    background: #404BBF;
+}
+
+.section-advantages {
+    width: 1440px;
+    height: 344px;
+    margin-top: -16px;    /*!!!*/
+}
+
+.block-advantages {
+    width: 1128px;
+    height: 104px;
+    padding-left: 0%;
+    padding-top: 0%;
+}
+
+.advantages {
+    width: 264px;
+    height: 112px;
+    margin-top: 120px;
+    margin-right: 24px;
+}
+
+.first {margin-left: 116px;}
+
+.advantages-title {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 2%;
+}
+
+.advantages-text {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 2%;
+}
+
+.section-team {background: #F4F4FD;}
+
