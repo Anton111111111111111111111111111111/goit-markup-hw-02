@@ -68,7 +68,7 @@ a {
     font-size: 56px;
     font-weight: 700;
     line-height: 1.07;
-    letter-spacing: 0,02em;
+    letter-spacing: 0.02em;
 }
 
 .btn {
@@ -79,7 +79,6 @@ a {
     size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
-    /* border-radius: 4px; */
     text-align: center;
 }
 
@@ -94,6 +93,7 @@ a {
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-transform:capitalize;
+    color: #2E2F42;
 }
 
 .section-subtitle {
@@ -101,8 +101,14 @@ a {
     font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.02em;
+    color: #2E2F42;
 }
 
+.advantages-text {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
 p {
     font-size: 16px;
     line-height: 1.5;
@@ -113,23 +119,28 @@ p {
     background: #F4F4FD;
 }
 
+.team-list {
+    background-color: white;
+}
+
 .team-title {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    text-align: center;
+    color: #2E2F42;
 }
 
 .team-text {
     text-align: center;
 }
 
-.portfolio-item {
+.portfolio-title {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.02em;
+    color: #2E2F42;
 }
 
 .footer {
